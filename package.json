@@ -2,6 +2,7 @@
   "name": "react-pp-outlines",
   "version": "1.0.0",
   "description": "Nested outlines where higher-ups take precedence.",
+  "homepage": "https://kolesnikn.github.io/3d_nested_outlines_preview/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
